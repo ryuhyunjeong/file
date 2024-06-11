@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAYSYIOcUu2U9onOjLjngW-yOGdvwKpf9s",
-  authDomain: "file-31107.firebaseapp.com",
-  projectId: "file-31107",
-  storageBucket: "file-31107.appspot.com",
-  messagingSenderId: "1058714043662",
-  appId: "1:1058714043662:web:855a9996deb049f320c35f",
-  measurementId: "G-3MJ019C3RZ"
+  apiKey: "AIzaSyC-2SAopcQofy5guhZNypQz6FQMrmudKOI",
+  authDomain: "updown-207a2.firebaseapp.com",
+  projectId: "updown-207a2",
+  storageBucket: "updown-207a2.appspot.com",
+  messagingSenderId: "1007737317103",
+  appId: "1:1007737317103:web:b1b294a2a2515269b25d1a",
+  measurementId: "G-KED7XW9PLB"
 };
 firebase.initializeApp(firebaseConfig);
 
