@@ -1,11 +1,12 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyABpvKxndo3pTqz2M9KRMmLT04QRE4fTcc",
-  authDomain: "updown-e4a97.firebaseapp.com",
-  projectId: "updown-e4a97",
-  storageBucket: "updown-e4a97.appspot.com",
-  messagingSenderId: "187528912548",
-  appId: "1:187528912548:web:a9885e744fd65b821b9031",
-  measurementId: "G-5BEK63C65L"
+  apiKey: "AIzaSyCzh2E-D0yTflctPMB-OZpzjSvxX3FWgSI",
+  authDomain: "file-e7a08.firebaseapp.com",
+  databaseURL: "https://file-e7a08-default-rtdb.firebaseio.com",
+  projectId: "file-e7a08",
+  storageBucket: "file-e7a08.appspot.com",
+  messagingSenderId: "91155674405",
+  appId: "1:91155674405:web:a4a21be912452051bf16cc",
+  measurementId: "G-1ZXB0VHTB1"
 };
 
 /*
